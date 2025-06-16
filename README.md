@@ -1,5 +1,4 @@
-# nuclear-launch
-
+# Nuclear Launch Button
 1. Connect RP2040 to your computer via USB.
 1. Flash the code in the `arduino` directory to the RP2040.
 1. Quit the Arduino IDE if it is open, as it may interfere with the serial port.
